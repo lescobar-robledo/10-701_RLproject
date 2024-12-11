@@ -2,9 +2,14 @@
 __pycache__/
 .virtual_documents/
 .ipynb_checkpoints/
+
 # file extensions
 *.pkl
 *.csv
 *.gif
+
+# OS config files
+.DS_Store
+
 
 
