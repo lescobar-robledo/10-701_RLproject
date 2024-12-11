@@ -1,0 +1,10 @@
+# hidden folders
+__pycache__/
+.virtual_documents/
+.ipynb_checkpoints/
+# file extensions
+*.pkl
+*.csv
+*.gif
+
+
